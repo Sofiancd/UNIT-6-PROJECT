@@ -1,0 +1,69 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+.start {
+    font-size: 50px;
+    font-weight: 800;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.Part-two-yes {
+    font-size: 40px;
+    font-weight: 700;
+    background-color: khaki;
+}
+
+
+.Part-two-no {
+    font-size: 50px;
+    font-weight: 800;
+    padding: 0 20px;
+    background-color: red;
+}
+
+
+.Ending-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color: pink;
+}
+
+.lastImage {
+    width: 350px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+button {
+    margin-top: 15px;
+}
+
+.reply {
+    text-align: center;
+}
+
+button,
+img {
+    display: block;
+    margin: 3px auto;
+}
